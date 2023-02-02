@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-02T17:25:13.418Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="NSLgSsDLmuPjGv3ZvVBA" type="github">
+<mxfile host="app.diagrams.net" modified="2023-02-02T17:27:25.106Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.8.3" etag="YGyv71NWI3PWG2gSnKoj" type="github">
   <diagram id="iK_jdVO9J1cBQImliNtq" name="Trang-1">
     <mxGraphModel dx="1835" dy="1743" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,10 +16,10 @@
         <mxCell id="mdbraSUk0Ujc3tY3gEB4-11" value="Trường mật khẩu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="-40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mdbraSUk0Ujc3tY3gEB4-13" value="Phím đăng nhập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mdbraSUk0Ujc3tY3gEB4-13" value="Phím Đăng nhập" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="-40" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="mdbraSUk0Ujc3tY3gEB4-15" value="Phím thoát" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mdbraSUk0Ujc3tY3gEB4-15" value="Phím Thoát" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="540" y="-40" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="mdbraSUk0Ujc3tY3gEB4-16" value="Màn hình cho tổ trưởng, tổ phó" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
